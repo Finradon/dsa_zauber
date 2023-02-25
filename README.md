@@ -1,6 +1,6 @@
 # DSA Zauber CLI tools
 
-Diese Repo beinhaltet praktische CLI-Programme zu berechnung einiger DSA4-Zauber mitsamt interessanter Varianten & Erschwernisse
+Diese Repo beinhaltet praktische CLI-Programme zu berechnung einiger DSA4-Zauber mitsamt interessanter Varianten & Erschwernisse. Orientiert sich am Regelwerk *Liber Cantiones Deluxe*.
 
 ## Installation
 
@@ -20,7 +20,7 @@ $ python3 balsam 1
 $ alias transversalis="python3 /home/repos/dsa_zauber/transversalis.py"
 $ alias balsam="python3 /home/repos/dsa_zauber/balsam.py"
 ```
-Sollte es zu `fileNotFound error` kommen dann einfach den pfad zur repo in den Skriptenändern.
+Sollte es zu `fileNotFound error` kommen dann einfach den pfad zur repo in den Skripten ändern.
 
 ## Nutzung
 
