@@ -50,5 +50,5 @@ else:
     while kk > 0:
         radius += 1
 
-        print("Köperkraft zwischen {} und {} Schritt Entfernung: {}".format(radius -0.99, radius, kk))
+        print("Köperkraft zwischen {} und {} Schritt Entfernung: +{}".format(radius -0.99, radius, kk))
         kk -=2
